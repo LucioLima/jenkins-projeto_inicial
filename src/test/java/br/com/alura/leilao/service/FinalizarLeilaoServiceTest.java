@@ -17,7 +17,7 @@ import br.com.alura.leilao.model.Leilao;
 import br.com.alura.leilao.model.Usuario;
 
 class FinalizarLeilaoServiceTest {
-	
+    
 	private FinalizarLeilaoService service;
 	
 	@Mock
